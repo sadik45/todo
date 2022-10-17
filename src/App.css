@@ -1,0 +1,38 @@
+*{
+    margin: 0 ;
+    padding: 0 ;
+    box-sizing: border-box !important;
+  }
+  
+  body{
+    
+    background-color:black
+         
+  }
+  
+    
+  .todoapp-input{
+    background-color: rgb(195, 247, 225);
+    border: none;
+    
+  }
+  
+   
+  
+  .btn-success{
+    background-color: #0bc7be !important;
+    border: none !important;
+  }
+  
+  .alert-secondary{
+    background-color: #00ffffcc !important;
+    border: none !important;
+  }
+  
+  .alert-warning{
+    background-color: #00eeffd2 !important;
+    border: none !important;
+  }
+  h1{
+    color:aliceblue;
+  }
